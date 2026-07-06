@@ -87,9 +87,7 @@
     <h1>งานที่ 2 Pichaya BIT.2/3 เลขที่ 10</h1>
     <form action="result.php" method="post">
 
-        <label for="price">เส้นรอบรูป:</label>
-        <input type="number"  name="p_price" ><br>
-
+        
         <label for="">เส้นทแยง:</label>
         <input type="number"  name="p_qty" ><br>
 

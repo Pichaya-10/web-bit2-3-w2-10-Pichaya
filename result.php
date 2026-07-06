@@ -70,7 +70,7 @@
                 $p_qty = $_POST["p_qty"];
 
                
-                $total = $p_price * $p_qty;
+                $total = 4 * $p_qty;
                 echo "เส้นรอบรูปขนมเปียกปูน: " . $total . " <br>";
 
             ?>
